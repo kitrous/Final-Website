@@ -1,0 +1,32 @@
+.Description{
+
+    width: 638px;
+    height: 1013px;
+    background-color: orange;
+    border-radius: 10px;
+    position: relative;
+    left: 5%;
+    text-align: center;
+    
+}
+
+.Showcase{
+    width: 638px;
+    height: 1013px;
+    background-color: orange;
+    border-radius: 10px;
+    position: absolute;
+    left: 60%; 
+    bottom: 1%;
+    top: 1%;
+
+
+}
+
+img{
+    position: absolute;
+    left: 3%;
+    bottom: 5%;
+/* also found this function on w3schools, very easy to use as well */
+    box-shadow: 6px 6px 12px rgba(0,0,0,0.6);
+}
