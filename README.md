@@ -1,1 +1,1 @@
-To view as intended you must install all files together.
+To view as intended, you must install all files together.
