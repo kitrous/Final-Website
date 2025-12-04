@@ -29,4 +29,5 @@ img{
     bottom: 5%;
 /* also found this function on w3schools, very easy to use as well */
     box-shadow: 6px 6px 12px rgba(0,0,0,0.6);
+    padding:1%;
 }
