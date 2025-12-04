@@ -1,7 +1,7 @@
 .Description{
-
-    width: 638px;
-    height: 1013px;
+    
+    width: 100vh;
+    height: 100vh;
     background-color: orange;
     border-radius: 10px;
     position: relative;
@@ -11,8 +11,8 @@
 }
 
 .Showcase{
-    width: 638px;
-    height: 1013px;
+    width: 638vh;
+    height: 1013vh;
     background-color: orange;
     border-radius: 10px;
     position: absolute;
