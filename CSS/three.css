@@ -4,14 +4,14 @@
     top: 1vh;
     height: 96vh;
     width: 50vw;
-    background-color: rgb(161, 130, 62);
+    background-color: rgb(90, 151, 72);
     border-radius: 3%;
 
 }
 
 h1{
     position:relative;
-    bottom: 50vh;
+    bottom: 40vh;
     text-align: center;
     text-indent:-30vw;
     
@@ -19,8 +19,9 @@ h1{
 
 img{
     border-radius: 3%;
-    height: 95vh;
-    width: 50vw;
+    position: relative;
+    height: 20vh;
+    width:20vw;
 }
 
 .Text{
@@ -34,9 +35,14 @@ img{
 
 button{
     position:relative;
-    bottom:15vh;
+    bottom:20vh;
     left:25vw;
 
 
 }
 
+.DoomTitle{
+    position: relative;
+    top: 10vh;
+
+}

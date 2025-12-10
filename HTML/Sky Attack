@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html>
+    
+    <link href="../CSS/three.css" rel="stylesheet">
+<head>
+    <!--screenshots and imgaes-->
+   <div class=section1> 
+        <img src="../Media/SkyAttackScreenshot1.png" style="position:relative;top:35vh;left:28vw;">
+        <img src="../Media/SkyAttackScreenshot2.png" style="position:relative;top:10vh;left:8.2vw;">
+        <img src="../Media/SkyAttackScreenshot3.png" style="position:relative;top:40vh;left:28vw;">
+    <title>Dragon Typer</title>
+        <h1>Sky Attack</h1>
+        </div>
+        <!--main text-->
+    <div class="Text">
+        <p>I created this game for a class project last semester.
+            <br>
+        Asteroids will come in your direction  
+            <br>
+        and you must dodge them
+            <br>
+         One of your engines have failed so you need to man the ship
+            <br>
+          and keep it afloat as you travel through space!
+        </p>
+    </div>
+    <!--button to go back-->
+    <a href="../index.html"><button>Go back</button></a>
+</head>
+<!--background color-->
+<body style="background-color: rgb(26, 68, 78);">
+
+</body>
+
+</html>

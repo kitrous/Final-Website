@@ -14,12 +14,14 @@
         <p>I created this game for a class project.
             <br>
             It is a remake of the first level of
-            <br>
          <a href="https://en.wikipedia.org/wiki/Doom_(1993_video_game)">DOOM</a>
          <br>
             I used Easy FPS Maker to make it and it was my first game made in an engine for games.
         </p>
     </div>
     <a href="../index.html"><button>Go back</button></a>
+    <body style="background-color: firebrick;">
+        
+    </body>
 </head>
 </html>

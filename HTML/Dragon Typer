@@ -3,6 +3,7 @@
     
     <link href="../CSS/one.css" rel="stylesheet">
 <head>
+    <!--screenshots and imgaes-->
    <div class=section1> 
         <img src="../Media/DragonTyperScreenshot1.png" style="position:relative;top:35vh;left:28vw;">
         <img src="../Media/DragonTyperScreenshot2.png" style="position:relative;top:10vh;left:8.2vw;">
@@ -10,6 +11,7 @@
     <title>Dragon Typer</title>
         <h1>Dragon Typer</h1>
         </div>
+        <!--main text-->
     <div class="Text">
         <p>I created this game for a class project.
             <br>
@@ -18,8 +20,12 @@
          based on what the enemy says.
         </p>
     </div>
+    <!--button to go back-->
     <a href="../index.html"><button>Go back</button></a>
 </head>
+<!--background color-->
+<body style="background-color: burlywood;">
 
+</body>
 
 </html>
