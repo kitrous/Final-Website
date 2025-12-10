@@ -9,13 +9,20 @@
         <!--basic intro, eventually going to expand-->
         <div class ="Description"> 
             <p>Hello and welcome to my work showcase.</p>
-                <p>On the left, you'll see various games that I worked on so far.</p>
+                <p>Around this text, you'll see various games that I worked on so far.</p>
             <br>
             Here is a link to my whole <a href="https://kom0.itch.io/">itch.io</a> and <a href="https://github.com/kitrous">github page.</a>
             
              <!--I found the clickable areas for images and whatnot on w3schools and found it pretty easy to use-->
-                <!--images and the specific style i used for it cause i wanted to move the images seperately-->    
-                <img src="Media/DragonTyperIconPrototype.png" usemap="#workmap" style=width:300px;height:200px;position:absolute;top:45%;rotate:10deg>
+                <!--images and the specific style i used for it cause i wanted to move the images seperately-->  
+                <img src="Media/Skyattack.png" usemap="#workmap" style="width:300px;height:200px;position:absolute;top:39%;left:73%;rotate:10deg">
+                    <br>
+                    <map name="workmap">
+                        <area shape="default" href="https://komo.itch.io/sky-attack">
+                    </map>
+                
+
+                <img src="Media/DragonTyperIconPrototype.png" usemap="#workmap" style=width:300px;height:200px;position:absolute;top:35%;rotate:-12deg>
                     <br>
                     <!--setting the usemap i used before in the img and makes it specific to that image-->
                     <map name="workmap">
@@ -23,33 +30,17 @@
                          </map>
 
 
-                <img src="Media/Doomremake.png" usemap="#2workmap" style=width:300px;height:200px;rotate:-10deg>
+                <img src="Media/Doomremake.png" usemap="#2workmap" style=width:300px;height:200px;rotate:-10deg;left:39%>
                     <map name="2workmap">
                     <area shape ="default" href="https://kom0.itch.io/doom-remake">
                     </map>
         </div>  
-    <!--Taken from W3Schools, HTML Tabs section-->
-      <div class="tab">
-  <button class="tablinks" onclick="openGame(event, 'Dragon Typer')">Dragon Typer</button>
-  <button class="tablinks" onclick="openGame(event, 'Doom Remake')">Doom Remake</button>
+<!--Taken from W3Schools, HTML Tabs section-->
+    <div class="tab">
+        <a href="HTML/Dragon Typer"><button class="tablinks" >Dragon Typer</button> </a>
+        <a href="HTML/Doom Remake"><button class="tablinks" >Doom Remake</button> </a>
+        <a href="HTML/Sky Attack"><button class="tablinks" >Sky Attack</button> </a>
   
 </div>
-
-<!-- Tab content CURRENTLY DOESNT WORK -->
-<div id="Dragon Typer" class="tabcontent">
-  <h3>This is Dragon Typer</h3>
-  <p>A game of typing and wit.</p>
-</div>
-
-<div id="Doom Remake" class="tabcontent">
-  <h3>My remake of the first level of Doom</h3>
-  <p></p>
-</div>
-
-
-        
-      
-      
-
     </body>
 </html>
