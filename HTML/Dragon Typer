@@ -1,10 +1,24 @@
 <!DOCTYPE HTML>
 <html>
     
-    <link href="CSS/Dragon TyperCSS" rel="stylesheet">
+    <link href="../CSS/one.css" rel="stylesheet">
 <head>
+   <div class=section1> 
+        <img src="../Media/DragonTyperScreenshot1.png" style="position:relative;top:35vh;left:28vw;">
+        <img src="../Media/DragonTyperScreenshot2.png" style="position:relative;top:10vh;left:8.2vw;">
+        <img src="../Media/DragonTyperScreenshot3.png" style="position:relative;top:40vh;left:28vw;">
     <title>Dragon Typer</title>
         <h1>Dragon Typer</h1>
+        </div>
+    <div class="Text">
+        <p>I created this game for a class project.
+            <br>
+        It requires you to type and answer the questions
+            <br>
+         based on what the enemy says.
+        </p>
+    </div>
+    <a href="../index.html"><button>Go back</button></a>
 </head>
 
 
